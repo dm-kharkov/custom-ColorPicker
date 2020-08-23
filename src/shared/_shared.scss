@@ -1,0 +1,24 @@
+/* ------------------------------------------------------------ *\
+  Colors
+\* ------------------------------------------------------------ */
+
+/* Classic colors */
+$white: #fff;
+$black: #000;
+$light-grey: #E4E0DF;
+$grey: #BABABC;
+$dark-grey: #999;
+
+/* Brand Colors */
+$red: '#E0222E';
+$yellow: '#E8B540';
+$green: '#17A458';
+$blue: '#18B1EC';
+
+/* Decor Colors */
+$decor-green: #118c8f;
+
+
+@mixin range-bg-color($color) {
+  background: linear-gradient(to right, $color, #000);
+}

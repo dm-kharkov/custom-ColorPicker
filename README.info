@@ -1,0 +1,23 @@
+Before starting project you need install all node_modules:
+
+### `npm install`
+
+/* ------------------------------------------------------------ */
+
+This application tested on:
+
+1) OS: Ubuntu 18.04 LTS (64 bit):
+     - Google Chrome 84.0.4147.135 (Official build), (64 bit);
+     - Mozilla Firefox 79.0 (Canonical), (64 bit);
+
+2) OS: Android 7.0 NRD90M:
+     - Google Chrome 84.0.4147.125 (Official build), (32 bit);
+     - Browser V12.4.3-g;
+
+3) OS: Android 10.0 QKQ1:
+     - Google Chrome 84.0.4147.125 (Official build), (32 bit);
+     - Browser V12.4.3-g;
+
+/* ------------------------------------------------------------ */
+
+Powered by Opryshkin Dmytro;
